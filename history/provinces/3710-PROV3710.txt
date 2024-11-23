@@ -30,4 +30,3 @@ capital = "Worcester"
 is_city = yes
 fort_15th = yes
 hre = no
-center_of_trade = 1
