@@ -26,6 +26,6 @@ base_tax = 2
 base_production = 2
 trade_goods = unknown
 base_manpower = 2
-capital = "Spring Valley"
+capital = "Palm Tree"
 is_city = yes
 hre = no
