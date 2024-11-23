@@ -28,3 +28,4 @@ base_manpower = 2
 capital = "Boston"
 is_city = yes
 hre = no
+center_of_trade = 1
