@@ -20,13 +20,13 @@ discovered_by = andean
 discovered_by = nomad_group
 discovered_by = early_chinese 
 culture = american
-religion = protestant
+religion = catholic
 
 base_tax = 4
 base_production = 5
 trade_goods = tourist
 base_manpower = 4
-capital = "default"
+capital = "Washington DC"
 is_city = yes
 fort_15th = yes
 hre = no
