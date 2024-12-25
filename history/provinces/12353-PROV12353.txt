@@ -20,12 +20,12 @@ discovered_by = andean
 discovered_by = nomad_group
 discovered_by = early_chinese 
 culture = british_louisianan
-religion = protestant
+religion = protestant #baptist
 
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
-capital = "default"
+capital = "Perry"
 is_city = yes
 hre = no
