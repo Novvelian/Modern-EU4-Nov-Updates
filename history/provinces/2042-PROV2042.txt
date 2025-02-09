@@ -26,6 +26,6 @@ base_tax = 2
 base_production = 2
 trade_goods = uranium
 base_manpower = 2
-capital = "default"
+capital = "Victoria"
 is_city = yes
 hre = no
