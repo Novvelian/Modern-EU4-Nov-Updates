@@ -25,6 +25,6 @@ base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
-capital = "default"
+capital = "Oklahoma City"
 is_city = yes
 hre = no
