@@ -20,12 +20,12 @@ discovered_by = andean
 discovered_by = nomad_group
 discovered_by = early_chinese 
 culture = british_louisianan
-religion = catholic
+religion = protestant #baptist
 
 base_tax = 1
 base_production = 1
 trade_goods = oil
 base_manpower = 1
-capital = "default"
+capital = "Marksville"
 is_city = yes
 hre = no
