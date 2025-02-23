@@ -25,6 +25,6 @@ base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "default"
+capital = "Grand Junction"
 is_city = yes
 hre = no
